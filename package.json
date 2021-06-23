@@ -1,0 +1,23 @@
+{
+  "name": "NameCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "vikash": "bash"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikash20-12/NameCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikash20-12/NameCLI/issues"
+  },
+  "homepage": "https://github.com/Vikash20-12/NameCLI#readme"
+}
